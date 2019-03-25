@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a41e3f-5c2c-4d6b-9c72-aca46b2cf7cd" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/main/java/ch/heigvd/res/examples/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +44,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="171">
               <caret line="132" column="56" selection-start-line="132" selection-start-column="55" selection-end-line="132" selection-end-column="56" />
+=======
+            <state relative-caret-position="362">
+              <caret line="176" column="29" lean-forward="true" selection-start-line="173" selection-start-column="8" selection-end-line="176" selection-end-column="29" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,13 +70,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="476">
               <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="71" />
+=======
+            <state relative-caret-position="76">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="31" selection-end-column="28" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -102,9 +126,15 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+=======
+    <option name="x" value="979" />
+    <option name="width" value="951" />
+    <option name="height" value="1031" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,6 +177,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -156,8 +191,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520436717" />
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/SER/SER_labo2" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553513802406" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -228,9 +268,15 @@
     <option name="totallyTimeSpent" value="17739000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
+=======
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03076923" />
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -254,7 +300,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.12708019" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.12478921" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -299,6 +345,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/SingleThreadedServer.java" />
     <entry file="file://$PROJECT_DIR$/imageDocker/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/TcpServers.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -320,8 +367,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="71" />
+=======
+    <entry file="file://$PROJECT_DIR$/TcpServers.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="176" column="29" lean-forward="true" selection-start-line="173" selection-start-column="8" selection-end-line="176" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
