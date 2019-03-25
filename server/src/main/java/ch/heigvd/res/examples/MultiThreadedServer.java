@@ -57,13 +57,14 @@ public class MultiThreadedServer {
 
 			try {
 				serverSocket = new ServerSocket(port);
+                LOG.log(Level.INFO, "ip = {0} ", new Object[]{serverSocket.getLocalSocketAddress()});
 			} catch (IOException ex) {
 				LOG.log(Level.SEVERE, null, ex);
 				return;
 			}
 
 			while (true) {
-				LOG.log(Level.INFO, "Waiting (blocking) for a new client on port {0}", port);
+				LOG.log(Level.INFO, "Waiting (blocking) for a new client on port: {0}", port);
 				try {
 					Socket clientSocket = serverSocket.accept();
 					LOG.info("A new client has arrived. Starting a new thread and delegating work to a new servant...");
@@ -102,10 +103,20 @@ public class MultiThreadedServer {
 				String line;
 				boolean shouldRun = true;
 
-				out.println("Welcome to the Simonet calcule Server.\nSend me text lines and conclude with the BYE command.");
+				//out.println("Welcome to the Simonet calcule Server.\nSend me text lines and conclude with the BYE command.");
 				out.flush();
 				try {
-					LOG.info("Reading until client sends BYE or closes the connection...");
+				    LOG.info("Reading until client sends BYE or closes the connection...");
+					while((shouldRun) && (line = in.readLine()) != null){
+                        if (line.equalsIgnoreCase("hello")) {
+							LOG.info(">hello");
+                        	shouldRun = false;
+                        }
+                    }
+                    shouldRun = true;
+
+                    out.println("hello");
+                    out.flush();
 					while ((shouldRun) && (line = in.readLine()) != null) {
 						if (line.equalsIgnoreCase("bye")) {
 							shouldRun = false;
