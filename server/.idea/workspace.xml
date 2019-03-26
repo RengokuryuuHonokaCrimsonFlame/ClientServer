@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a41e3f-5c2c-4d6b-9c72-aca46b2cf7cd" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/main/java/ch/heigvd/res/examples/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/ExerciceCalculatorClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/main/java/examples/MultiThreadedServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/test/java/ch.heigvd.res.exemple.test/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciceCalculatorClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/main/java/ch/heigvd/res/examples/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/src/main/java/ch/heigvd/res/examples/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciceCalculatorClient/target/classes/ch/heigvd/res/examples/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciceCalculatorClient/target/classes/ch/heigvd/res/examples/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TcpServers-1.0-SNAPSHOT-launcher.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TcpServers-1.0-SNAPSHOT-launcher.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TcpServers-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TcpServers-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer$ReceptionistWorker$ServantWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/heigvd/res/examples/MultiThreadedServer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,39 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="171">
-              <caret line="132" column="56" selection-start-line="132" selection-start-column="55" selection-end-line="132" selection-end-column="56" />
-=======
-            <state relative-caret-position="362">
-              <caret line="176" column="29" lean-forward="true" selection-start-line="173" selection-start-column="8" selection-end-line="176" selection-end-column="29" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TcpServers.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="476">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="71" />
-=======
-            <state relative-caret-position="76">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="31" selection-end-column="28" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+            <state relative-caret-position="-2225">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -125,16 +94,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1619" />
     <option name="height" value="1047" />
-=======
-    <option name="x" value="979" />
-    <option name="width" value="951" />
-    <option name="height" value="1031" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,27 +139,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520436717" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/SER/SER_labo2" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553513802406" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553632845118" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExerciceCalculatorClient" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -261,22 +214,17 @@
       <workItem from="1553501562469" duration="3258000" />
       <workItem from="1553515645903" duration="5178000" />
       <workItem from="1553522747763" duration="121000" />
+      <workItem from="1553629278313" duration="3522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17739000" />
+    <option name="totallyTimeSpent" value="21314000" />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="1619" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
-=======
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03076923" />
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26234767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,14 +233,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32405892" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44189852" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3238512" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4452954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32932165" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -300,7 +248,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.12478921" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.12443874" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -341,33 +289,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/SingleThreadedServer.java" />
     <entry file="file://$PROJECT_DIR$/imageDocker/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/TcpServers.java" />
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="132" column="56" selection-start-line="132" selection-start-column="55" selection-end-line="132" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TcpServers.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="71" />
-=======
     <entry file="file://$PROJECT_DIR$/TcpServers.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -382,14 +333,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1082">
+          <caret line="350" column="45" selection-start-line="350" selection-start-column="45" selection-end-line="350" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch/heigvd/res/examples/MultiThreadedServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="176" column="29" lean-forward="true" selection-start-line="173" selection-start-column="8" selection-end-line="176" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
->>>>>>> 1540354926108c076b9e6d5caf703c739ded626e
+        <state relative-caret-position="-2225">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>

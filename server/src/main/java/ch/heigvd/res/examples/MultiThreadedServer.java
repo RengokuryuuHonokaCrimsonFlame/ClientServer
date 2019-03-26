@@ -103,8 +103,6 @@ public class MultiThreadedServer {
 				String line;
 				boolean shouldRun = true;
 
-				//out.println("Welcome to the Simonet calcule Server.\nSend me text lines and conclude with the BYE command.");
-				out.flush();
 				try {
 				    LOG.info("Reading until client sends BYE or closes the connection...");
 					while((shouldRun) && (line = in.readLine()) != null){
